@@ -5,6 +5,14 @@ headshot: /assets/img/headshot.webp
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# About Me
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+Hi, I’m Chenyan Zhao.
+
+I’m interested in building AI products that feel clear, useful, and human. My work sits between product thinking, interaction design, user research, and AI-assisted prototyping.
+
+I’m currently a Product Design Intern at Moonshot AI, where I work on Kimi-related product experience, iOS component audits, user feedback analysis, and product iteration. I also enjoy building my own AI product experiments, including SwiftShot, an AI video creation agent for turning reference videos into editable creative workflows.
+
+My background in architecture trained me to think about systems, space, behavior, and experience. Now I’m applying that way of thinking to AI products: how people understand them, how they make decisions with them, and how intelligent systems can support real creative and analytical work.
+
+I’m currently exploring human-AI interaction, AI product management, multimodal AI workflows, and vibe coding.
